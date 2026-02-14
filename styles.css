@@ -160,6 +160,20 @@ body {
     background-color: #333;
 }
 
+.download-button.tertiary {
+    background-color: transparent;
+    color: #333;
+    border: 1px solid #c9c7c2;
+}
+
+.download-button.tertiary:hover {
+    background-color: #dbd9d5;
+}
+
+.download-button.tertiary:active {
+    background-color: #dbd9d5;
+}
+
 /* ==========================================================================
    Utility: page version label
    ========================================================================== */
